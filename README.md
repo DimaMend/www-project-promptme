@@ -103,8 +103,5 @@ If you're interested in contributing:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/R3dShad0w7/PromptMe/blob/main/LICENSE) file for details.
 
-## Author
 
-The project is developed and maintained by [Divyesh](https://github.com/divyesh-0x01), [Srithesh](https://github.com/0xbughunter), [Praveen](https://github.com/praveen-kv), [Ranjit](https://www.linkedin.com/in/ranjit-singh-a788b579/), [Sumanth](https://github.com/SumanthGowda)
