@@ -1,7 +1,7 @@
 # PromptMe - A Vulnerable LLM Application
 
 <p>
-<img src="https://github.com/R3dShad0w7/PromptMe/blob/main/static/logo.png?raw=true" width="600" alt="Thumbnail"/>
+<img src="https://github.com/OWASP/www-project-promptme/blob/main/static/logo.png?raw=true" width="600" alt="Thumbnail"/>
 </p>
 
 ### A vulnerable application designed to demonstrate the OWASP Top 10 for Large Language Model (LLM) Applications.
@@ -28,7 +28,7 @@ This guide provides instructions for setting up and running the challenges.
 
 #### 1. Clone the repository.
 > ```
-> git clone https://github.com/R3dShad0w7/PromptMe.git
+> git clone https://github.com/OWASP/www-project-promptme.git
 > ```
 
 #### 2. Go to challenge directory.
@@ -74,7 +74,7 @@ This project currently supports macOS and Linux systems. Windows compatibility i
 
 ## Spoilers
 
-[Solutions](https://github.com/R3dShad0w7/PromptMe/tree/main/solutions) to the challenges are provided for beginners who may not be familiar with exploiting vulnerabilities from the LLM Top 10. This guide is intended to help users solve the challenges and understand the underlying vulnerable code and components.
+[Solutions](https://github.com/OWASP/www-project-promptme/tree/main/solutions) to the challenges are provided for beginners who may not be familiar with exploiting vulnerabilities from the LLM Top 10. This guide is intended to help users solve the challenges and understand the underlying vulnerable code and components.
 
 ## Connect
 
@@ -99,9 +99,6 @@ If you're interested in contributing:
     Make your changes and commit them.
 
     Push to your fork and create a Pull Request.
-
-
-## License
 
 
 
