@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP PromptMe
-tags: example-tag
+tags: PromptMe
 level: 2
 type: code
-pitch: A very brief, one-line description of your project
+pitch: A vulnerable application designed to demonstrate the OWASP Top 10 for Large Language Model (LLM) Applications.
 
 ---
 
