@@ -1,6 +1,7 @@
 ---
 
 layout: col-sidebar
+altfooter: true
 title: OWASP PromptMe
 tags: PromptMe
 level: 2
@@ -9,9 +10,28 @@ pitch: A vulnerable application designed to demonstrate the OWASP Top 10 for Lar
 
 ---
 
+![PromptMe Logo](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe_Logo_150.png)
+
+[![GitHub release](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe1.svg)](https://github.com/OWASP/www-project-promptme)
+
+OWASP PromptMe is probably the most modern and sophisticated insecure LLM application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! PromptMe encompasses vulnerabilities from the entire [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) along with many other security flaws found in real-world applications!
+
+![Slideshow](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe1.gif)
+
+## Description
+
 Prompt Me is an intentionally vulnerable LLM based application designed as a Capture The Flag (CTF) style challenge. The project serves as an educational tool to demonstrate the practical implications of the OWASP Top 10 for LLM Applications, helping developers, researchers, and security professionals understand how emerging LLM threats can be exploited and mitigated.
 
 This web-based application simulates real-world LLM attack vectors in a controlled environment. Each vulnerability is mapped directly to an OWASP LLM Top 10 risk (such as prompt injection, insecure output handling, embedding manipulation, etc.), and participants are challenged to exploit these flaws to capture hidden flags.
 
-### Road Map
-Project is ready to deploy
+## Contributors
+
+[![GitHub contributors](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe_Contri.svg)](https://github.com/OWASP/www-project-promptme/graphs/contributors)
+
+The OWASP PromptMe has been created, developed and maintained by [Divyesh Prajapati](mailto:divyesh.prajapati@owasp.org) and team.
+
+## Licensing
+
+[![license](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe_Mit.svg)](https://github.com/OWASP/www-project-promptme/blob/main/LICENSE.md)
+
+This program is free software: You can redistribute it and/or modify it under the terms of the [MIT License](https://github.com/OWASP/www-project-promptme/blob/main/LICENSE.md). OWASP PromptMe and any contributions are Copyright © by Divyesh Prajapati & the OWASP PromptMe contributors 2025.
