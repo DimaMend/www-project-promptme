@@ -16,7 +16,7 @@ pitch: A vulnerable application designed to demonstrate the OWASP Top 10 for Lar
 
 OWASP PromptMe is probably the most modern and sophisticated insecure LLM application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! PromptMe encompasses vulnerabilities from the entire [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) along with many other security flaws found in real-world applications!
 
-![Slideshow](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe1.gif)
+![Slideshow](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe2.gif)
 
 ## Description
 
