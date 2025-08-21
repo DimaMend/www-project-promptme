@@ -30,8 +30,4 @@ This web-based application simulates real-world LLM attack vectors in a controll
 
 The OWASP PromptMe has been created, developed and maintained by [Divyesh Prajapati](mailto:divyesh.prajapati@owasp.org) and team.
 
-## Licensing
 
-[![license](https://github.com/OWASP/www-project-promptme/blob/main/assets/images/PromptMe_Mit.svg)](https://github.com/OWASP/www-project-promptme/blob/main/LICENSE.md)
-
-This program is free software: You can redistribute it and/or modify it under the terms of the [MIT License](https://github.com/OWASP/www-project-promptme/blob/main/LICENSE.md). OWASP PromptMe and any contributions are Copyright © by Divyesh Prajapati & the OWASP PromptMe contributors 2025.
