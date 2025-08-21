@@ -1,7 +1,7 @@
 ### Project Information
 
 * <i class="fas fa-flag" style="font-size: 1.3em; color:#38a047;"></i>
-  <span style="font-size: 1.3em;">Flagship Project</span>
+  <span style="font-size: 1.3em;">Sample Project</span>
 
 #### Classification
 
