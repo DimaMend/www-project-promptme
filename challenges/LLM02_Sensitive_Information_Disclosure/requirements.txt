@@ -7,4 +7,4 @@ langchain==0.3.25
 langchain-community==0.3.24
 langchain-core==0.3.60
 langchain-text-splitters==0.3.8
-langsmith==0.3.42
+langsmith==0.8.18
